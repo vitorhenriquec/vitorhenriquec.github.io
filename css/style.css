@@ -1,0 +1,110 @@
+
+html,body,.container-fluid, .row, .row > div, .block-content{
+	margin: 0px;
+   	height: 100%;
+   	width: 100%;
+   	padding: 0px;
+}
+
+.block-content > div{
+	margin-bottom: 50px;
+}
+
+body{
+	font: 400 14px 'Poppins', sans-serif;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover{
+	text-decoration: none;
+	color: inherit;
+}
+
+.nav-menu-vertical{
+	padding-top: 20%;
+}
+
+ul.menu{
+	align-content: center;
+	width: 100%;
+	list-style-type: none;
+	margin-left: 15%;
+}
+
+ul.menu li{
+	padding:5px; 
+	margin-bottom: 10px;
+	font-size: 16pt;
+	color:rgba(255,255,255,0.9);
+}
+
+ul.menu li i{
+	margin-right: 8px;
+}
+
+.perfil-figure{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+
+.block-content{
+	background-image: url("../img/bg.jpg");
+	padding: 35px;
+}
+
+.home{
+	width: 100%;
+	height: 100%;
+}
+
+.home .left-content{
+	color: rgba(255,255,255,0.9);
+	display: inline-block;
+	margin-top:350px;
+	margin-left: 10%;
+}
+
+.home .right-content{
+	display: inline-block;
+	float: right;
+	margin-top:250px;
+	margin-right: 8%;
+}
+
+.right-content img{
+	float: right;
+}
+
+.resume .main-content, .contact .main-content{
+	border-radius: 3px;
+	padding: 25px;
+}
+
+.resume h2{
+	font-size: 25pt;
+}
+
+.resume h3, .resume h4, .contact h3{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid gray;
+}
+
+span.spotilight{
+	color: gray;
+	font-weight: italic;
+	margin-left: 15px; 
+	font-size: 12pt;
+}
+
+.contact .main-content{
+	height:50%;
+}
+
