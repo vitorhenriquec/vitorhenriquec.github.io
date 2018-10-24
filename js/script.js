@@ -1,3 +1,7 @@
+function carregou(){
+	window.location.href = "https://vitorhenriquec.github.io/";
+}
+
 $(document).ready(function(){
 	$("#link-home").click(function(){
 		$(".contact").hide(200);
