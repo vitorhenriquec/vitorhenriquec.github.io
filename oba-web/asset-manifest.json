@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/oba-web/static/css/main.f0c22664.chunk.css",
+    "main.js": "/oba-web/static/js/main.05b7a6fc.chunk.js",
+    "main.js.map": "/oba-web/static/js/main.05b7a6fc.chunk.js.map",
+    "runtime-main.js": "/oba-web/static/js/runtime-main.ae9ede6c.js",
+    "runtime-main.js.map": "/oba-web/static/js/runtime-main.ae9ede6c.js.map",
+    "static/js/2.f2b44bd3.chunk.js": "/oba-web/static/js/2.f2b44bd3.chunk.js",
+    "static/js/2.f2b44bd3.chunk.js.map": "/oba-web/static/js/2.f2b44bd3.chunk.js.map",
+    "index.html": "/oba-web/index.html",
+    "precache-manifest.81011d9de8904e11341886c91eed47a0.js": "/oba-web/precache-manifest.81011d9de8904e11341886c91eed47a0.js",
+    "service-worker.js": "/oba-web/service-worker.js",
+    "static/css/main.f0c22664.chunk.css.map": "/oba-web/static/css/main.f0c22664.chunk.css.map",
+    "static/js/2.f2b44bd3.chunk.js.LICENSE.txt": "/oba-web/static/js/2.f2b44bd3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/oba-web/static/media/bg.5cb1238a.jpeg",
+    "static/media/icone-usuario.svg": "/oba-web/static/media/icone-usuario.fdcda7b4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae9ede6c.js",
+    "static/js/2.f2b44bd3.chunk.js",
+    "static/css/main.f0c22664.chunk.css",
+    "static/js/main.05b7a6fc.chunk.js"
+  ]
+}
